@@ -1,9 +1,9 @@
 # Event_Extraction
 A biomedical event extraction system by a novel Combination Strategy based on hybrid deep neural networks.   
-Online demo : http://www.predictor.xin/event_extraction/  
+Online demo: http://www.predictor.xin/event_extraction/  (link deprecated)
 Zhu L, Zheng H. Biomedical event extraction with a novel combination strategy based on hybrid deep neural networks[J]. BMC bioinformatics, 2020, 21(1): 47. https://rdcu.be/b1Pn1
   
-## Uasge
+## Usage
 
 ### Preprocess
 (0. The train corpus contains .txt/.a1/.a2 files, placed in `/txt` `/a1` `/a2` directories respectively.)
